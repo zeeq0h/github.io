@@ -43,14 +43,14 @@
   <p align="center">
     AN UPCOMING OPEN SOURCE PROJECT - GET IN CONTACT zeeqoh#1545 ON DISCORD
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/zeeq0h/github.io"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/zeeq0h/github.io">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/zeeq0h/github.io/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/zeeq0h/github.io/issues">Request Feature</a>
   </p>
 </p>
 
@@ -128,7 +128,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/zeeq0h/github.io/issues) for a list of proposed features (and known issues).
 
 
 
@@ -157,7 +157,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 zeeq0h - [@twitter_handle](https://twitter.com/twitter_handle) - zeeqoh00@gmail.com
 
-Project Link: [https://github.com/zeeq0h/github.io](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/zeeq0h/github.io](https://github.com/zeeq0h/github.io)
 
 
 
